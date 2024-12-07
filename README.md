@@ -27,4 +27,5 @@ How to Play:
 Enjoy a fun, lightweight gaming experience in Python!
 
 Author: Kushi B
+
 Date: 7th December, 2024
